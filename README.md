@@ -1,6 +1,6 @@
 # OsmSharp
 
-![.NET Core](https://github.com/pietervdvn/core/workflows/.NET%20Core/badge.svg)
+![.NET Core Build](https://github.com/pietervdvn/core/workflows/.NET%20Core/badge.svg)
 
 [![Build status](http://build.itinero.tech:8080/app/rest/builds/buildType:(id:OsmSharp_CoreDevelop)/statusIcon)](https://build.itinero.tech/viewType.html?buildTypeId=OsmSharp_CoreDevelop)[![Visit our website](https://img.shields.io/badge/website-osmsharp.com-020031.svg) ](http://www.osmsharp.com/)[![MIT licensed](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/OsmSharp/core/blob/develop/LICENSE.md)  
 
