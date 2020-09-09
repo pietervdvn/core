@@ -182,7 +182,6 @@ namespace OsmSharp.Test.Functional
             OsmSharp.Logging.Logger.Log("Program", TraceEventType.Information, "Indexed names.");
 
             OsmSharp.Logging.Logger.Log("Program", TraceEventType.Information, "Testing finished.");
-            throw new Exception("Testing actions");
 #if DEBUG
             Console.ReadLine();
 #endif
